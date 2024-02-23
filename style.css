@@ -132,7 +132,7 @@ body {
     display: flex; 
     justify-content: center;
     gap: 10px;
-    color: var(--branco-principal);
+    color: var(--branco-principal); 
 }
 
 .lista__link a {
